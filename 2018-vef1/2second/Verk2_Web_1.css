@@ -1,0 +1,84 @@
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+
+*{
+    box-sizing: border-box; 
+}
+.listi{
+    display: block lime;
+    margin: 1em;
+    padding: 1em;
+    border: 3px;
+}
+.BoxDashed1{
+    border: 1px dashed rgba(255, 0, 0, 0.877);
+    margin: 10px;
+    padding: 0px;
+}
+.BoxDashed2{
+    border: 1px dashed rgba(131, 2, 2, 0.911);
+    margin: 10px;
+    padding: 25px;
+}
+.BoxSolid1{
+    border: 1px solid rgb(84, 177, 99);
+    margin: 10px;
+    padding: 0px;
+}
+.BoxSolid2{
+    border: 1px solid rgb(27, 158, 48);
+    margin: 10px;
+    padding: 25px;
+    }
+.BoxDashed3{
+    border: 3px dashed green;
+    margin: 1em;
+    padding: 1em;
+}
+.BoxDashed4 li{
+    display: inline;
+    border: 3px dashed blue;
+    margin: 1em;
+    padding: 1em;
+}
+.BoxDashed5 li{
+    display: inline-block;
+    border: 3px dashed red;
+    margin: 1em;
+    padding: 1em;
+}
+.flout_box{
+    border: 1px solid black;
+    padding: 1px;
+}
+.dalkur1 div{
+    float: left;
+    width: 33.33%;
+}
+.dalkur2 div{
+    float: left;
+    width: 50%;
+}
+
+.lina{
+    border: 1px solid red;
+}
+/*
+----------------------------------------------
+                clearfix
+----------------------------------------------
+*/
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}

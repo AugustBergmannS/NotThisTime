@@ -1,0 +1,31 @@
+body{
+    background:
+    font-family lorem ipsum
+}
+.hausfjolublar{
+    color: purple;
+
+}
+.hausblar{
+    color: blue;
+
+}
+.spassia{
+    padding-left: 40px
+}
+.hausraudur{
+    color: red;
+}
+.dokkraudur{
+    color:darkred;
+}
+a:visited{
+    color: yellow;
+}
+a:active{
+    color: lime;
+
+}
+a:hover{
+    
+}
