@@ -13,3 +13,5 @@ git checkout- Þessi skipun er til að skipta um hvaða branch þú er á
 git branch- Þessi skipun sínir leiðina eða branchið sem er og sem þú er staddur/stödd á
 4.
 Version control er kerfi sem heldur utanum öll commits og útgáfur sem hafa verið til
+5.
+Það er hægt að fylgjast með allri þróun á verkefni, það er líka hægt að hjálp eiganda/eigendum með verkefni sem er verið að gera með því að niður hlaða því og breyta og svo senda það
