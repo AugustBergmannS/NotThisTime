@@ -17,3 +17,5 @@ Version control er kerfi sem heldur utanum öll commits og útgáfur sem hafa verið
 Það er hægt að fylgjast með allri þróun á verkefni, það er líka hægt að hjálp eiganda/eigendum með verkefni sem er verið að gera með því að niður hlaða því og breyta og svo senda það
 6.
 Eftir hverja einustu breytingu bara til öryggis
+7.
+Working directory er bara directoryið sem er verið að fara vera unnið á og Staging area er tíma bilið frá því að þú gerir git add . og þegar þú gerir git commit -m (nafn á skjali)
