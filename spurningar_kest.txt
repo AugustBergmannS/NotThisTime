@@ -3,3 +3,7 @@ cd- Þessi skipun leyfir þér að breyta um directory
 ls- Þessi skipun sínir allt ofan í directory sem þú ert staddur/stödd í
 pwd- Þessi skipun sínir leyðina eða directory sem þú hefur farið í gegnum og allt að sá sem þú ert staddur/stödd í
 mkdir- Þessi skipun býr til nýtt directory
+2.
+git clone- Þessi skipun leyfir þér að afrita öll skjölin í directory, eða ef þú vilt getur þú bæt við skipunina
+git status- Þessi skipun sínir hvað er búið að commit og líka hvað á eftir að commit
+git diff- Þessi skipun sínir öll merge
