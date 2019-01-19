@@ -7,3 +7,7 @@ mkdir- Þessi skipun býr til nýtt directory
 git clone- Þessi skipun leyfir þér að afrita öll skjölin í directory, eða ef þú vilt getur þú bæt við skipunina
 git status- Þessi skipun sínir hvað er búið að commit og líka hvað á eftir að commit
 git diff- Þessi skipun sínir öll merge
+3.
+git log- Þessi skipun sínir commit ID á commitum
+git checkout- Þessi skipun er til að skipta um hvaða branch þú er á
+git branch- Þessi skipun sínir leiðina eða branchið sem er og sem þú er staddur/stödd á
