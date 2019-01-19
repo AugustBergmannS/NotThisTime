@@ -1,0 +1,22 @@
+1.
+cd- Þessi skipun leyfir þér að breyta um directory
+ls- Þessi skipun sínir allt ofan í directory sem þú ert staddur/stödd í
+pwd- Þessi skipun sínir leyðina eða directory sem þú hefur farið í gegnum og allt að sá sem þú ert staddur/stödd í
+mkdir- Þessi skipun býr til nýtt directory
+2.
+git clone- Þessi skipun leyfir þér að afrita öll skjölin í directory, eða ef þú vilt getur þú bæt við skipunina
+git status- Þessi skipun sínir hvað er búið að commit og líka hvað á eftir að commit
+git diff- Þessi skipun sínir öll merge
+3.
+git log- Þessi skipun sínir commit ID á commitum
+git checkout- Þessi skipun er til að skipta um hvaða branch þú er á
+git branch- Þessi skipun sínir leiðina eða branchið sem er og sem þú er staddur/stödd á
+4.
+Version control er kerfi sem heldur utanum öll commits og útgáfur sem hafa verið til
+5.
+Það er hægt að fylgjast með allri þróun á verkefni, það er líka hægt að hjálp eiganda/eigendum með verkefni sem er verið að gera með því að niður hlaða því og breyta og svo senda það
+Á nýju greininn minni get ég sagt mína skoðun á Git Umsjónarkerfinu (Það mjög gott, því ef það væri ekki þannig kerfi þá myndi maður þurfa að vista hverja útgáfu sjálfur og geyma þær sjálf/sjálfur, það er bara betra og þægilegra)
+6.
+Eftir hverja einustu breytingu bara til öryggis
+7.
+Working directory er bara directoryið sem er verið að fara vera unnið á og Staging area er tíma bilið frá því að þú gerir git add . og þegar þú gerir git commit -m (nafn á skjali)
