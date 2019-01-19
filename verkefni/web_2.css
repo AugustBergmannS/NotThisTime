@@ -1,0 +1,31 @@
+body{
+    background: burlywood;
+    font-family: sans-serif;
+}
+.hausfjolublar{
+    color: purple;
+
+}
+.hausblar{
+    text-align: center;
+    color: blue;
+}
+.spassia{
+    padding-left: 40px
+}
+.hausraudur{
+    color: red;
+}
+.dokkraudur{
+    color:darkred;
+}
+a:visited{
+    color: yellow;
+}
+a:active{
+    color: lime;
+
+}
+a:hover{
+    text-decoration: underline;
+}
